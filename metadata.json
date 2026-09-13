@@ -1,0 +1,6 @@
+{
+  "name": "The Power Fitness Hub",
+  "description": "Premium modern fitness gym located in Buxar, Bihar near Panchmukhi Mandir, featuring quality equipment, skilled guidance, and 4.9-star rating.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
